@@ -9,12 +9,6 @@ import regex
 import time
 import json
 
-# Identificador del google sheet Desarrollo (BotsIBKR): 
-#   '1JOe2rzWEkciQasrhjsVFVesUCMIe5BuQXaeRWD-0QV4'
-# Identificador del google sheet Paper (BotsIBKR_Paper):
-#   '14PfzhKAYBoM9wPeHl6CYPI7G7hmNU47PLADXH6Bh_-g'
-
-
 # Aquí se ponen todos los parámetros que definen el funcionamiento básico.
 CONFIGURATION = {
     'client_tws': 19,
@@ -163,4 +157,5 @@ core.execDetailsEvent += core.onExecDetailsEvent
 core.set_refresh_dashboard()
 core.set_actualize_bot_status()
 core.run() 
+
 

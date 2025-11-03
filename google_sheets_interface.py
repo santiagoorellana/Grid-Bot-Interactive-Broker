@@ -36,7 +36,7 @@ class GoogleSheetsInterface:
         credentials: Ruta completa del fichero de credenciales de Google. 
                      Ejemplo 'C:/New Frontier/credentials.json'
         sheetID: Es el ID de la hoja de calculo de la quie se deben leer los datos.
-                 Ejemplo '1JOe2rzWEkciQasrhjsVFVesUCMIe5BuQXaeRWD-0QV4'
+                 Ejemplo '1JOe2rzWEkciQasrhjsVFVesUCMIe5BuQXaeRWD-0QV5'
         beginRow: Número de fila donde empieza a leer las tablas.
         beginColumn: Número de columna donde empieza a leer las tablas.
         token: Establece la ruta donde se debe guardar el fichero token de acceso a
@@ -407,6 +407,7 @@ def test():
 
 if __name__ == "__main__":
     test()
+
 
 
 

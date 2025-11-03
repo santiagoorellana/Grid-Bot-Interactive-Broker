@@ -38,7 +38,16 @@ Esta clase es una abstrapción para evitar que el bot baneje directamente el alm
 <h3>Core</h3>
 <p>Crea un objeto que representa al broker o exchange. Esta clase extiende las propiedades y metodos de la clase IB de la librería ib_insync agregándole los métodos necesarios para el manejo del Grid Bot.</p>
 
-<h3></h3>
-<p></p>
+<h1>Puedo hacer un Grid Bot para tí o ayudarte...</h1>
+<H3>Esto es solo un ejemplo de lo que se puede hacer. Si necesitas implementarlo con una interface gráfica, ya sea web o desktop, podrás alcanzar más usuarios. Si eres un trader de un perfil más numérico, puedo programar simulaciones de Grid Bot para tí, para que veas las gráficas y números... escríbeme y hablamos de lo que piensas hacer.</H3>
+
+Santiago Orellana <br>
+Email: <a href="mailto: tecnochago@gmail.com?Subject=Quiero%20un%20bot%20de%20trading"> tecnochago@gmail.com</a><br>
+Whatsapp: <a href="https://wa.me/5354635944?text=Quiero contratar tus servicios">+5354635944</a>
+<br>
+La Habana, Cuba, 2023 - 2024
+
+
+
 
 
